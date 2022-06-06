@@ -1,6 +1,77 @@
 {
     "remoteUninstall": false,
-    "games": [],
+    "games": [
+        {
+            "name": "Cubethon",
+            "version": "1.0.0",
+            "summary": "My very first game made by following Brackey's \"How to Make a Video Game with Unity\" tutorials on YouTube. There's 3 levels of increasing difficulty. Make it to the end of each level to win the game.",
+            "changeLogs": [
+                {
+                    "log": "",
+                    "version": "1.0.0",
+                    "date": "Sunday, June 5th 2022, 5:58:45 pm"
+                }
+            ],
+            "exeName": "Cubethon.exe",
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/cubethon_v1.0.0.zip?raw=true"
+        },
+        {
+            "name": "Aim Trainer",
+            "version": "1.0.0",
+            "summary": "Want to increase your FPS accuracy? Spend some time at the shooting range. Shoot to the clock behind you to start the timer. Once the timer starts, you have 40 seconds to shoot as many targets as you can.",
+            "changeLogs": [
+                {
+                    "log": "Initial Launch",
+                    "version": "1.0.0",
+                    "date": "Sunday, June 5th 2022, 6:01:35 pm"
+                }
+            ],
+            "exeName": "FPS Mechanics.exe",
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/aim_trainer_v1.0.0.zip?raw=true"
+        },
+        {
+            "name": "Snipe Valley",
+            "version": "1.0.0",
+            "summary": "A throwback to the 1v1 lobbies in Call of Duty. You and your opponent spawn on opposite sides of a Valley. You then snipe each other as much as you want until you get BORED.",
+            "changeLogs": [
+                {
+                    "log": "Initial Deployment",
+                    "version": "1.0.0",
+                    "date": "Sunday, June 5th 2022, 6:11:33 pm"
+                }
+            ],
+            "exeName": "SnipeValley.exe",
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/snipe_valley_v1.0.0.zip?raw=true"
+        },
+        {
+            "name": "Procedural Generation",
+            "version": "1.0.0",
+            "summary": "Explore infinite worlds with this Procedural Generation mechanics. The world is created using Perlin Noise to generate the Terrain Mesh.",
+            "changeLogs": [
+                {
+                    "log": "Initial Deployment",
+                    "version": "1.0.0",
+                    "date": "Sunday, June 5th 2022, 6:04:40 pm"
+                }
+            ],
+            "exeName": "Procedural Terrain Generation.exe",
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/procedural_generation_v1.0.0.zip?raw=true"
+        },
+        {
+            "name": "Procedural FPS Animations",
+            "version": "1.0.0",
+            "summary": "A very small demo game to play with GAME FEEL mechanics of FPS animations.",
+            "changeLogs": [
+                {
+                    "log": "Initial Deployment",
+                    "version": "1.0.0",
+                    "date": "Sunday, June 5th 2022, 6:17:59 pm"
+                }
+            ],
+            "exeName": "TheGunGame.exe",
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/procedural_fps_animations_v1.0.0.zip?raw=true"
+        }
+    ],
     "launcherVersion": "1.0.0-alpha",
     "launcherDownloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/game_launcher_v1.0.0-alpha.zip?raw=true"
 }
