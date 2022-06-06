@@ -70,6 +70,20 @@
             ],
             "exeName": "TheGunGame.exe",
             "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/procedural_fps_animations_v1.0.0.zip?raw=true"
+        },
+        {
+            "name": "Grid System",
+            "version": "1.0.0",
+            "summary": "Explore grid-system mechanics for building structures similar to the game Rust.",
+            "changeLogs": [
+                {
+                    "log": "Initial Deployment",
+                    "version": "1.0.0",
+                    "date": "Sunday, June 5th 2022, 7:19:49 pm"
+                }
+            ],
+            "exeName": "Grid System.exe",
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/grid_system_v1.0.0.zip?raw=true"
         }
     ],
     "launcherVersion": "1.0.0-alpha",
