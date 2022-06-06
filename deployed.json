@@ -71,7 +71,5 @@
             "exeName": "TheGunGame.exe",
             "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/procedural_fps_animations_v1.0.0.zip?raw=true"
         }
-    ],
-    "launcherVersion": "1.0.0-alpha",
-    "launcherDownloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/game_launcher_v1.0.0-alpha.zip?raw=true"
+    ]
 }
