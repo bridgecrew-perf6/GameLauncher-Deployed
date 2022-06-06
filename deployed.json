@@ -7,13 +7,13 @@
             "summary": "My very first game made by following Brackey's \"How to Make a Video Game with Unity\" tutorials on YouTube. There's 3 levels of increasing difficulty. Make it to the end of each level to win the game.",
             "changeLogs": [
                 {
-                    "log": "",
+                    "log": "Initial Deployment",
                     "version": "1.0.0",
                     "date": "Sunday, June 5th 2022, 5:58:45 pm"
                 }
             ],
             "exeName": "Cubethon.exe",
-            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/cubethon_v1.0.0.zip?raw=true"
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/cubethon_v1.0.0.zip?raw=true"
         },
         {
             "name": "Aim Trainer",
@@ -21,13 +21,13 @@
             "summary": "Want to increase your FPS accuracy? Spend some time at the shooting range. Shoot to the clock behind you to start the timer. Once the timer starts, you have 40 seconds to shoot as many targets as you can.",
             "changeLogs": [
                 {
-                    "log": "Initial Launch",
+                    "log": "Initial Deployment",
                     "version": "1.0.0",
                     "date": "Sunday, June 5th 2022, 6:01:35 pm"
                 }
             ],
             "exeName": "FPS Mechanics.exe",
-            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/aim_trainer_v1.0.0.zip?raw=true"
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/aim_trainer_v1.0.0.zip?raw=true"
         },
         {
             "name": "Snipe Valley",
@@ -41,7 +41,7 @@
                 }
             ],
             "exeName": "SnipeValley.exe",
-            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/snipe_valley_v1.0.0.zip?raw=true"
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/snipe_valley_v1.0.0.zip?raw=true"
         },
         {
             "name": "Procedural Generation",
@@ -55,7 +55,7 @@
                 }
             ],
             "exeName": "Procedural Terrain Generation.exe",
-            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/procedural_generation_v1.0.0.zip?raw=true"
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/procedural_generation_v1.0.0.zip?raw=true"
         },
         {
             "name": "Procedural FPS Animations",
@@ -69,7 +69,7 @@
                 }
             ],
             "exeName": "TheGunGame.exe",
-            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/undefined/bin/procedural_fps_animations_v1.0.0.zip?raw=true"
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/procedural_fps_animations_v1.0.0.zip?raw=true"
         }
     ],
     "launcherVersion": "1.0.0-alpha",
