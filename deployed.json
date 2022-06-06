@@ -1,6 +1,6 @@
 {
-
     "remoteUninstall": false,
-    "games": [
-    ]
+    "games": [],
+    "launcherVersion": "1.0.0-alpha",
+    "launcherDownloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/game_launcher_v1.0.0-alpha.zip?raw=true"
 }
