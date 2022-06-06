@@ -1,4 +1,5 @@
 {
+    "remoteUninstall": false,
     "games": [
         {
             "name": "Cubethon",
