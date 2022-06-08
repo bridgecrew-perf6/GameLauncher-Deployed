@@ -73,9 +73,14 @@
         },
         {
             "name": "Grid System",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "summary": "Explore grid-system mechanics for building structures similar to the game Rust.",
             "changeLogs": [
+                {
+                    "log": "- Add particles when placing objects\n- Add respawn on 'period' key press\n- Add Circle item menu",
+                    "version": "1.0.1",
+                    "date": "Wednesday, June 8th 2022, 12:36:25 pm"
+                },
                 {
                     "log": "Initial Deployment",
                     "version": "1.0.0",
@@ -83,7 +88,7 @@
                 }
             ],
             "exeName": "Grid System.exe",
-            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/grid_system_v1.0.0.zip?raw=true"
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/grid_system_v1.0.1.zip?raw=true"
         }
     ],
     "launcherVersion": "1.0.0-alpha",
